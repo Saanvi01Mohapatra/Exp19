@@ -70,7 +70,7 @@ int main() {
 200->100->NULL
 500->200->100->NULL
 ```
-###2. Inserting, Displaying, and Deleting Linked List Nodes
+### 2. Inserting, Displaying, and Deleting Linked List Nodes
 ```
 // Name: Saanvi
 // PRN: 23070123110
